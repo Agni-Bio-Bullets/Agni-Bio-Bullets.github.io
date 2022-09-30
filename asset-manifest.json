@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4943a290.css",
+    "main.js": "/static/js/main.85ac0a02.js",
+    "static/js/787.ece2f382.chunk.js": "/static/js/787.ece2f382.chunk.js",
+    "static/media/windmill.jpg": "/static/media/windmill.c18dc18eae234af4cace.jpg",
+    "static/media/plant_in_pellet.jpg": "/static/media/plant_in_pellet.872e5448257638e46072.jpg",
+    "index.html": "/index.html",
+    "main.4943a290.css.map": "/static/css/main.4943a290.css.map",
+    "main.85ac0a02.js.map": "/static/js/main.85ac0a02.js.map",
+    "787.ece2f382.chunk.js.map": "/static/js/787.ece2f382.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4943a290.css",
+    "static/js/main.85ac0a02.js"
+  ]
+}
